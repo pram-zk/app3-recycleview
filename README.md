@@ -319,31 +319,48 @@ Semua teks ini akan diganti secara dinamis melalui adapter di RecyclerView berda
 Tombol ini digunakan untuk mengedit atau menghapus data siswa.
 
 ## 📸 Screenshot
-### StudentAdapter.kt
+StudentAdapter.kt
+
 <img width="1366" height="730" alt="1" src="https://github.com/user-attachments/assets/fd26eddc-792d-455b-89ba-380fd8b8577d" />
 <img width="1366" height="680" alt="2" src="https://github.com/user-attachments/assets/1a5b7144-6a81-403e-9433-fc092f0f6473" />
 <img width="1366" height="678" alt="3" src="https://github.com/user-attachments/assets/18a3b8cb-ceeb-43e7-b308-f679508cdeb5" />
 <img width="1366" height="667" alt="4" src="https://github.com/user-attachments/assets/8e385f98-5cc7-49ed-8e57-c4ad8df235b0" />
 <img width="1366" height="705" alt="5" src="https://github.com/user-attachments/assets/1611c99a-c082-4dc3-9e10-ab43049a95c3" />
 <img width="968" height="171" alt="6" src="https://github.com/user-attachments/assets/bea6b146-c653-4f4f-a2d0-c70c9a164723" />
-### Student.kt
+
+Student.kt
+
 <img width="427" height="224" alt="student kt" src="https://github.com/user-attachments/assets/ce053474-31da-4ee1-820c-0f31a99d90e0" />
-### DummyData.kt
+
+DummyData.kt
+
 <img width="715" height="470" alt="dummy data" src="https://github.com/user-attachments/assets/bb955c01-d601-4ca8-aec8-794f69e1d7a7" />
-### DetailActivity.kt
+
+DetailActivity.kt
+
 <img width="980" height="627" alt="detail activity" src="https://github.com/user-attachments/assets/f09ff670-dd56-4ad0-a0e7-7007f8780f16" />
-### MainActivity.kt
+
+MainActivity.kt
+
 <img width="979" height="623" alt="main acti  1" src="https://github.com/user-attachments/assets/4a24ef45-cd00-414e-9d26-eb363942db3c" />
 <img width="965" height="618" alt="main acti 2" src="https://github.com/user-attachments/assets/1612cbc3-561a-4f8e-b3c6-81199c2c0e05" />
-### activity_detail.xml
+
+activity_detail.xml
+
 <img width="975" height="614" alt="ac detail 1" src="https://github.com/user-attachments/assets/d4fdc031-4ff4-4c98-b08e-b4b37a9ceb3f" />
 <img width="979" height="486" alt="ac detail 2" src="https://github.com/user-attachments/assets/3b21d405-3889-4689-b0a8-a2e744f750a8" />
-### activity_main.xml
+
+activity_main.xml
+
 <img width="978" height="416" alt="ac main 1" src="https://github.com/user-attachments/assets/1d013bdd-fc13-45dd-a368-678f1b87302f" />
 <img width="976" height="528" alt="ac main 2" src="https://github.com/user-attachments/assets/9b520e5d-ecca-4a2c-8e75-f6dcf1f91e46" />
-### dialog_edit__student.xml
+
+dialog_edit__student.xml
+
 <img width="973" height="624" alt="dialog 1" src="https://github.com/user-attachments/assets/8da488ed-c8a4-4205-9d53-099b952e1868" />
-### item_student.xml
+
+item_student.xml
+
 <img width="992" height="621" alt="item 1" src="https://github.com/user-attachments/assets/e26a3a52-0ae9-4a6a-b12c-d4b7765b86a1" />
 <img width="975" height="511" alt="item 2" src="https://github.com/user-attachments/assets/5ee48df1-1640-4c83-8d8c-8451424d2ed0" />
 <img width="872" height="529" alt="item 3" src="https://github.com/user-attachments/assets/e72aa637-27a7-4428-a99f-307c6cde670f" />
